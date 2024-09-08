@@ -15,7 +15,18 @@ public class Task15_1_1 {
             """);
 
         System.out.println("""
-            Цитаты берём............
+                На веб-сайте: https://github.com/
+                Создан мой аккаунт (или profile), и в нём созданы мои репозитории.
+                Имя моего аккаунта (или логин):  Vladislav-NewJoined
+                Почта, указанная при регистрации: sozin.vladislav@mail.ru
+                Ссылка на мой аккаунт:\s
+                https://github.com/Vladislav-NewJoined
+                Пример моего репозитория для этого задания:\s
+                Имя репозитория:
+                n240221_Module1_Task1_Zadaniya1-16
+                Тип репозитория: Public
+                Ссылка на репозиторий:\s
+                https://github.com/Vladislav-NewJoined/n240221_Module1_Task1_Zadaniya1-16.git
             """);
 
 
