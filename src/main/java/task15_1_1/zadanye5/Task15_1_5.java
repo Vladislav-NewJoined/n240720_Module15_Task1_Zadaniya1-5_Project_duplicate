@@ -59,6 +59,6 @@ public class Task15_1_5 {
             - Вернулся в репозиторий GitHub, обновил его и убедился, что файл 'addSomeCode.txt' добавился также в
             ветку master.
             При необходимости добавленную позже ветку 'Red-fone' можно удалить.
-            Ссылка на репозиторий GitHub на этот проект: """);
+            Ссылка на репозиторий GitHub на этот проект: https://github.com/Vladislav-NewJoined/n240221_Module1_Task1_Zadaniya1-16.git""");
     }
 }
