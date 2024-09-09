@@ -1,7 +1,5 @@
 package task15_1_1.zadanye5;
 
-// Инструкция про слияние веток здесь: https://ya.ru/video/preview/10419351097700760196
-
 public class Task15_1_5 {
     public static void main(String[] args) {
         System.out.println("""
