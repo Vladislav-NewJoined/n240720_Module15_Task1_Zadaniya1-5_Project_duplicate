@@ -47,12 +47,15 @@ public class Task15_1_5 {
             В 'GitHub Desktop' отправил изменения на сервер в репозиторий GitHub.
             Зашёл в репозиторий GitHub, удостоверился, что там в ветке "Red-fone' есть файл 'addSomeCode.txt',
             а в ветке 'master' нет такого файла.
+            Для тестирования вернулся в приложении 'Visual Studio Code' в файл 'addSomeCode.txt' и немного изменил его код.
+            Сохранил, закрыл 'Visual Studio Code'.
+            В 'GitHub Desktop' "запушил" изменения в репозиторий GitHub.
             Далее решил задачу переноса (или добавления) изменений из ветки "Red-fone' в ветку 'master'
             следующим образом:
-            открыл проект в 'GitHub Desktop'. В верхнем меню нажал на вкладку 'Branch'. и
-            выбрал в выпадающем меню пункт 'Merge into current branch' -> 'Create a merge commit'.
-            
-            Перешёл в этот репозиторий на GitHub.
-        """);
+            - открыл проект в 'GitHub Desktop'. Вернулся на ветку master. В верхнем меню нажал на вкладку 'Branch'. и
+            выбрал в выпадающем меню пункт 'Merge into current branch' -> 'Create a merge commit' -> Push origin.
+            - Вернулся в репозиторий GitHub, обновил его и убедился, что файл 'addSomeCode.txt' добавился также в
+            ветку master.
+            При необходимости добавленную позже ветку 'Red-fone' можно удалить.""");
     }
 }
