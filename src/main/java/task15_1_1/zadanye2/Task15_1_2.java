@@ -48,6 +48,45 @@ public class Task15_1_2 {
             Тип репозитория: Public
             Ссылка на репозиторий:\s
             https://github.com/Vladislav-NewJoined/n240221_Module1_Task1_Zadaniya1-16.git
+            Далее показаны действия в Шаге 2:
+            Я сгенерировал шаблон для файла .gitignore на сайте: gitignore.io для моей
+            операционной системы (Windows 10). Вот так он выглядит:\s
+            ```
+            # Created by https://www.toptal.com/developers/gitignore/api/windows
+            # Edit at https://www.toptal.com/developers/gitignore?templates=windows
+
+            ### Windows ###
+            # Windows thumbnail cache files
+            Thumbs.db
+            Thumbs.db:encryptable
+            ehthumbs.db
+            ehthumbs_vista.db
+
+            # Dump file
+            *.stackdump
+
+            # Folder config file
+            [Dd]esktop.ini
+
+            # Recycle Bin used on file shares
+            $RECYCLE.BIN/
+
+            # Windows Installer files
+            *.cab
+            *.msi
+            *.msix
+            *.msm
+            *.msp
+
+            # Windows shortcuts
+            *.lnk
+
+            # End of https://www.toptal.com/developers/gitignore/api/windows
+            ```
+            , скопировал его и вставил в файл '.gitignore' в репозитории github.
+            Сохранил изменения, нажав на кнопку 'Commit changes'.
+            Используя ссылку на репозиторий github, сделал обмен данными между репозиторием github и\s
+            моим локальным компьютером, чтобы проекты в репозитории и на компьютере были идентичными.
         """);
 
     }
