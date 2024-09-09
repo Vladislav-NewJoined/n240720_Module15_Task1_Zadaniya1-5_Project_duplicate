@@ -34,7 +34,25 @@ public class Task15_1_5 {
         """);
 
         System.out.println("""
-            Добавим..........
+            Добавил в 'Visual Studio Code' к проекту 'n240221_Module1_Task1_Zadaniya1-16' пустой CSS-файл и
+            подключил его к HTML.
+            Добавил в 'Visual Studio Code' в папке проекта новую ветку 'Red-fone'.
+            С помощью кнопки 'Publish branch' в 'GitHub Desktop' перенёс изменения в репозиторий на GitHub.
+            Для иллюстрации работы с ветками и их слиянием, в репозитории проекта на GitHub перешёл
+            в ту часть проекта, которая находится в ветке 'Red-fone', клонировал проект в 'GitHub Desktop',
+            после этого зашёл в проект из приложения 'Visual Studio Code' и создал в корневой папке
+            текстовый файл 'addSomeCode.txt'.
+            Написал в нём следующий текст:
+            'Some change in code in new branch 'Red-fone'.'
+            В 'GitHub Desktop' отправил изменения на сервер в репозиторий GitHub.
+            Зашёл в репозиторий GitHub, удостоверился, что там в ветке "Red-fone' есть файл 'addSomeCode.txt',
+            а в ветке 'master' нет такого файла.
+            Далее решил задачу переноса (или добавления) изменений из ветки "Red-fone' в ветку 'master'
+            следующим образом:
+            открыл проект в 'GitHub Desktop'. В верхнем меню нажал на вкладку 'Branch'. и
+            выбрал в выпадающем меню пункт 'Merge into current branch' -> 'Create a merge commit'.
+            
+            Перешёл в этот репозиторий на GitHub.
         """);
     }
 }
